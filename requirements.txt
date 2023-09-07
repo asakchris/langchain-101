@@ -1,0 +1,9 @@
+jupyterlab
+openai
+langchain
+streamlit
+tiktoken
+google-search-results
+wikipedia
+python-dotenv
+tenacity
